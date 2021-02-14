@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9e7331e-8913-43fd-89e2-c86a1fa9502d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/changgo$GoodsApplication_.ic" NAME="GoodsApplication  Coverage Results" MODIFIED="1605578607997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.changgou.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&amp;#125</find>
+      <find>sfq</find>
+      <find>Pageable</find>
+      <find>action</find>
+      <find>goods</find>
+      <find>分类</find>
+      <find>selector</find>
+      <find>content</find>
+      <find>success</find>
+      <find>user</find>
+      <find>com.changgou.auth.</find>
+      <find>&amp;#125;</find>
+      <find>&amp;#123;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>seq</replace>
+      <replace>user</replace>
+      <replace>order</replace>
+      <replace>}</replace>
+      <replace>{</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\IDEA\changgou\changgou-parent</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="SCOPE" value="This Class" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1kv5yXYVQy7axKeODQukkaeeEFZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="DealySeckill&#9;null&#9;null&#10;FeignInterceptor&#9;PSI&#9;JAVA://com.changgou.order.config.MyFeignInterceptor&#10;com.changgou.auth.dao&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611909437814" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.354067" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.oauth.service" />
+      <recent name="com.yan.changgou.item.service" />
+      <recent name="com.changgou.service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.changgou.search.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.changgou.oauth" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\changgou\changgou-parent\changgou-service\changgou-service-seckill\src\main\java\com\changgou\seckill" />
+      <recent name="E:\IDEA\changgou\changgou-parent\changgou-service-api\changgou-service-seckill-api\src\main\java\com\changgou\seckill\feign" />
+      <recent name="E:\IDEA\changgou\changgou-parent\changgou-service-api\changgou-service-seckill-api\src\main\java\com\changgou\seckill\pojo" />
+      <recent name="E:\IDEA\changgou\changgou-parent" />
+      <recent name="E:\IDEA\changgo\changgou-parent\changgou-user-oauth\src\main\java\com\changgou\oauth\service\impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA\changgou\changgou-parent" />
+      <recent name="E:\IDEA\changgou" />
+      <recent name="E:\IDEA\changgo\changgou-parent\changgou-service-api\changgou-service-goods-api\src" />
+      <recent name="E:\IDEA\changgo\changgou-parent\changgou-web\changgou-web-search\src\main\resources\templates" />
+      <recent name="E:\IDEA\changgo\changgou-parent\changgou-web\changgou-web-search\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RabbitMQTest.sendMessage">
+    <configuration name="DateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entity.DateUtil" />
+      <module name="changgou-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMQTest.sendMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_rabbitmq_delay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yan.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yan.test.RabbitMQTest" />
+      <option name="METHOD_NAME" value="sendMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChanggouWebSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-web-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yan.changgou.search.ChanggouWebSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="changgou-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.oauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.seckill.SeckillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRabbitMQApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_rabbitmq_delay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.SpringRabbitMQApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DateUtil" />
+      <item itemvalue="JUnit.RabbitMQTest.sendMessage" />
+      <item itemvalue="Spring Boot.ChanggouWebSearchApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.SeckillApplication" />
+      <item itemvalue="Spring Boot.SpringRabbitMQApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RabbitMQTest.sendMessage" />
+        <item itemvalue="Spring Boot.SpringRabbitMQApplication" />
+        <item itemvalue="Spring Boot.SeckillApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Application.DateUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e7331e-8913-43fd-89e2-c86a1fa9502d" name="Default Changelist" comment="" />
+      <created>1605314557894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605314557894</updated>
+      <workItem from="1605314561090" duration="1025000" />
+      <workItem from="1605315701762" duration="10238000" />
+      <workItem from="1605327022690" duration="2292000" />
+      <workItem from="1605488884399" duration="10549000" />
+      <workItem from="1605573559257" duration="47357000" />
+      <workItem from="1605835815438" duration="29940000" />
+      <workItem from="1606568489157" duration="91000" />
+      <workItem from="1606568670907" duration="8000" />
+      <workItem from="1608296194987" duration="712000" />
+      <workItem from="1608379840206" duration="842000" />
+      <workItem from="1608380785089" duration="228000" />
+      <workItem from="1608462264410" duration="4341000" />
+      <workItem from="1608473120510" duration="44285000" />
+      <workItem from="1608881310147" duration="54228000" />
+      <workItem from="1610069783206" duration="598000" />
+      <workItem from="1610496251893" duration="10978000" />
+      <workItem from="1610592436595" duration="36704000" />
+      <workItem from="1611037058164" duration="15515000" />
+      <workItem from="1611642542421" duration="22000" />
+      <workItem from="1611908960614" duration="548000" />
+      <workItem from="1613310859445" duration="336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JwtTest_parseJwt - 2020.12.26 at 21h 56m 09s.xml">
+      <configuration name="JwtTest.parseJwt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_parseJwt - 2020.12.26 at 21h 57m 06s.xml">
+      <configuration name="JwtTest.parseJwt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateJwtTest_testCreateToken - 2020.12.29 at 19h 29m 59s.xml">
+      <configuration name="CreateJwtTest.testCreateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateJwtTest_testParseToken - 2020.12.29 at 19h 36m 39s.xml">
+      <configuration name="CreateJwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateJwtTest_testParseToken - 2020.12.29 at 19h 36m 50s.xml">
+      <configuration name="CreateJwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateJwtTest_testParseToken - 2020.12.29 at 19h 36m 59s.xml">
+      <configuration name="CreateJwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateJwtTest_testParseToken - 2020.12.29 at 19h 38m 30s.xml">
+      <configuration name="CreateJwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitMQTest_sendMessage - 2021.01.19 at 18h 29m 46s.xml">
+      <configuration name="RabbitMQTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitMQTest_sendMessage - 2021.01.19 at 18h 30m 45s.xml">
+      <configuration name="RabbitMQTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabbitMQTest_sendMessage - 2021.01.19 at 18h 34m 09s.xml">
+      <configuration name="RabbitMQTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1613311250215">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1613311250215" />
+    <state x="284" y="1" key="SettingsEditor" timestamp="1613310995774">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="284" y="1" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1613310995774" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/impl/ParaServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/impl/ParaServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-user-oauth/src/main/java/com/changgou/oauth/controller/AuthController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-user-oauth/src/main/java/com/changgou/oauth/controller/AuthController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-user-oauth/src/main/java/com/changgou/oauth/controller/UserLoginController.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-user-oauth/src/main/java/com/changgou/oauth/controller/UserLoginController.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-user-oauth/src/main/java/com/changgou/oauth/config/UserDetailsServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-canal/src/main/java/com/changgou/listener/CanalDataEventListener.java</url>
+          <line>23</line>
+          <properties field="stringRedisTemplate" class="com.changgou.listener.CanalDataEventListener" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-canal/src/main/java/com/changgou/listener/CanalDataEventListener.java</url>
+          <line>21</line>
+          <properties field="contentFeign" class="com.changgou.listener.CanalDataEventListener" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/code-template-master/src/main/java/com/itheima/CodeApplication.java</url>
+          <line>11</line>
+          <properties class="com.itheima.CodeApplication" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>changgou-user-oauth</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.354067" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
